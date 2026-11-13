@@ -1,0 +1,13 @@
+{
+    "camera_index": 0,
+    "frame_width": 960,
+    "frame_height": 540,
+    "ear_threshold": 0.21,
+    "eye_closed_seconds": 1.5,
+    "mar_yawn_threshold": 0.65,
+    "yawn_seconds": 1.2,
+    "smoothing_alpha": 0.35,
+    "alert_cooldown_seconds": 2.0,
+    "show_landmarks": true,
+    "enable_sound": true
+}
